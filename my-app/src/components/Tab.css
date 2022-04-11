@@ -1,0 +1,21 @@
+button {
+    transition: 0.4s;
+    font-size: medium;
+    font-weight: bold;
+    background-color: blue;
+    color: white;
+    border: 2px solid blue;
+    border-bottom: 0;
+    margin-right: 10px;
+    margin-left: 0;
+    margin-bottom: 0;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 10px 10px 0px 0px;
+}
+
+.selected {
+    background-color: white;
+    color: blue;
+}
